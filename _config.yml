@@ -2,6 +2,8 @@ collections:
   authors:
     output: true
 
+include: [/jekyll-first]
+
 defaults:
   - scope:
       path: ""
