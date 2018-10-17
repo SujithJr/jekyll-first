@@ -1,7 +1,4 @@
-name: Jekyll-First
-	markdown: kramdown
-
-    collections:
+collections:
   authors:
     output: true
 
